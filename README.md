@@ -1,4 +1,4 @@
-# Bazelisk
+ # Bazelisk
 
 **A user-friendly launcher for Bazel.**
 
